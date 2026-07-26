@@ -137,7 +137,7 @@ Additionally, it displays:
 ```bash
 git clone https://github.com/GaganYadav20/sentiment-analysis.git
 
-cd sentiment-analysis-ai
+cd sentiment-analysis
 ```
 
 ---
