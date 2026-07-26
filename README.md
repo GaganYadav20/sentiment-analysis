@@ -135,7 +135,7 @@ Additionally, it displays:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/sentiment-analysis-ai.git
+git clone https://github.com/GaganYadav20/sentiment-analysis.git
 
 cd sentiment-analysis-ai
 ```
